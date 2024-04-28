@@ -1,1 +1,1 @@
-"# journal-service" 
+"# user-journal-service" 
